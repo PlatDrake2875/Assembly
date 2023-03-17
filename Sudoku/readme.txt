@@ -1,1 +1,1 @@
-Am adaugat codul C++ pe care l-am tradus in assembly pentru a se intelege cat mai clar care au au fost ideile mele de-a lungul implementarii.
+Added project files
